@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright (C) 2010 Cyril Mottier (http://www.cyrilmottier.com)
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<resources>
+
+	<string name="gd_go_home">Inicio</string>
+    <string name="gd_search">Buscar</string>
+    <string name="gd_talk">Hablar</string>
+    <string name="gd_compose">Componer</string>
+    <string name="gd_export">Exportar</string>
+    <string name="gd_share">Compartir</string>
+    <string name="gd_refresh">Actualizar</string>
+    <string name="gd_take_photo">Hacer foto</string>
+    <string name="gd_pick_photo">Buscar foto</string>
+    <string name="gd_locate">Localizar</string>
+    <string name="gd_edit">Editar</string>
+    <string name="gd_add">Añadir</string>
+    <string name="gd_star">Estrellas</string>
+    <string name="gd_sort_by_size">Organizar por tamaño</string>
+    <string name="gd_locate_myself">Localizarme</string>
+    <string name="gd_compass">Compás</string>
+    <string name="gd_help">Ayuda</string>
+    <string name="gd_info">Información</string>
+    <string name="gd_settings">Ajustes</string>
+    <string name="gd_list">Lista</string>
+    <string name="gd_trashcan">Eliminar</string>
+    <string name="gd_eye">Ver</string>
+    <string name="gd_all_friends">Amigos</string>
+    <string name="gd_group">Grupo</string>
+    <string name="gd_gallery">Galería</string>
+    <string name="gd_slideshow">Presentación</string>
+    <string name="gd_mail">Correo</string>
+
+</resources>
